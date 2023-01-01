@@ -1,5 +1,5 @@
 <h1>Olá eu sou a Dominique!</h1>
-##
+
 
 - 🔭 Atualmente estou cursando Desenvolvimento de Sistemas
 - 🌱 Atualmente estou aprendendo mais sobre java script
@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/Vit0riaDominiqu3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vit0riaDominiqu3&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" widht="150"src="https://github-readme-stats.vercel.app/api?username=Vit0riaDominiqu3&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vit0riaDominiqu3&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
@@ -21,14 +21,15 @@
   <img align="center" alt="boostrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="picture" height="150" style="border-radius:50px;" src="https://www.instagram.com/p/CmkiCovu026oJH_ZuhsdbAf47YoMoPgHxr17p80/?igshid=YmMyMTA2M2Y=">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
   ##
-  
+  <div>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the- badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
 
- ![ Animação de cobra ](https://github.com/Vit0riaDominiqu3/Vit0riaDominiqu3/blob/output/github-contribution-grid-snake.svg)
+
+ ![ Animação de cobra ](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  </div>
 
