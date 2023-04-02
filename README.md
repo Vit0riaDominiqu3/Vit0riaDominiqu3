@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou cursando Desenvolvimento de Sistemas
 - 🌱 Atualmente estou aprendendo mais sobre java script
-- 😄 Pronomes: são uma classe gramatical variável que se subdivide em pessoais retos e oblíquos...
+- 😄 Pronomes: são uma classe gramatical variável que se subdivide em pessoais retos, oblíquos...
 - ⚡ curiosidade: estudante da Etec
 
 
